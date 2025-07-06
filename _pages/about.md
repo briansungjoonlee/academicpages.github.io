@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+![Brian Lee headshot](/images/brian-lee-headshot.jpg)
+
 Hi! I'm Brian (Sung Joon) Lee.
 
 I'm an incoming second-year PhD student in Organizational Behavior at the Gies College of Business, University of Illinois Urbana-Champaign. My current research focuses on how people evaluate creative ideas, particularly the subtle psychological and social mechanisms that influence why some ideas are embraced while others are dismissed. I am currently collaborating with Dr. Jeffrey Loewenstein and Dr. Jack Goncalo. 
