@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Brian Lee headshot](/images/brian-lee-headshot.jpg)
+![Brian Lee headshot](/images/brian-lee-headshot.jpeg)
 
 Hi! I'm Brian (Sung Joon) Lee.
 
