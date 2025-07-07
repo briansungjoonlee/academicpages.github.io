@@ -25,10 +25,10 @@ author:
   avatar           : "brian-lee-headshot_1000x1000px.jpeg"
   name             : "Brian (Sung Joon) Lee"
   pronouns         : # example: "she/her"  
-  bio              : "Incoming second-year PhD Student in Business Administration (Organizational Behavior)"
+  bio              : "Incoming second-year PhD Student in Business Administration\n(Organizational Behavior)"
   location         : "Champaign, IL, U.S.A."
-  employer         : "Gies College of Business, University of Illinois Urbana-Champaign"
-  uri              : # URL
+  employer         : "Gies College of Business,\nUniversity of Illinois Urbana-Champaign"
+  uri              : "https://giesbusiness.illinois.edu/profile/sung-joon-lee"
   email            : "sjl8@illinois.edu" 
 
   # Academic websites
@@ -120,7 +120,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
