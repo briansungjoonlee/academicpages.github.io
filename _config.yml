@@ -25,13 +25,9 @@ author:
   avatar           : "brian-lee-headshot_1000x1000px.jpeg"
   name             : "Brian (Sung Joon) Lee"
   pronouns         : # example: "she/her"  
-  bio              : |
-                     Incoming second-year PhD Student, 
-                     Business Administration (Organizational Behavior)
+  bio              : "Incoming second-year PhD Student<br />in Business Administration (Organizational Behavior)"
   location         : "Champaign, IL, U.S.A."
-  employer         : |
-                     Gies College of Business,
-                     University of Illinois Urbana-Champaign
+  employer         : "Gies College of Business<br />University of Illinois Urbana-Champaign"
   uri              : "https://giesbusiness.illinois.edu/profile/sung-joon-lee"
   email            : "sjl8@illinois.edu" 
 
@@ -43,7 +39,7 @@ author:
   orcid            : "https://orcid.org/0009-0002-8208-4422"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Brian-Sung-Joon-Lee?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
