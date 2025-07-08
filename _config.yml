@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "brian-lee-headshot_1000x1000px.jpeg"
+  avatar           : "brian-lee-headshot-665x665px.jpeg"
   name             : "Brian (Sung Joon) Lee"
   pronouns         : # example: "she/her"  
   bio              : "Incoming second-year PhD Student,<br />in Business Administration (Organizational Behavior)"
